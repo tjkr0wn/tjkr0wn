@@ -11,8 +11,8 @@ I'm constantly learning and hope to soon find my own 0day!
 
 --Preffered method(s) of contact: Twitter, Discord, email.
 
-**Twitter: @tjkr0wn
+**Twitter: @tjkr0wn**
 
-**Discord: tjkr0wn#1981
+**Discord: tjkr0wn#1981**
 
-**Email: tarekjoumaa@icloud.com
+**Email: tarekjoumaa@icloud.com**
