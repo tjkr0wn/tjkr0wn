@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Tarek Joumaa!
 
-<!--
-**tjkr0wn/tjkr0wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--About me: I'm a iOS security and jailbreaking enthusiast! I love breaking bootchains, kernels, and more.
 
-Here are some ideas to get you started:
+I started research into iOS security about a year ago and I've enjoyed learning about all aspects of the iPhone and how it operates.
+I'm constantly learning and hope to soon find my own 0day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--Programming languages: C, C++, Python, and arm assembly.
+
+--Where I'm based: I live in America, EST more specifically.
+
+--Preffered method(s) of contact: Twitter, Discord, email.
+
+**Twitter: @tjkr0wn
+
+**Discord: tjkr0wn#1981
+
+**Email: tarekjoumaa@icloud.com
