@@ -19,4 +19,4 @@ I'm constantly learning and hope to soon find my own 0day!
 
 Please use my PGP key when contacting me for sensitive information
 
-https://github.com/tjkr0wn/PGP
+https://raw.githubusercontent.com/tjkr0wn/PGP/main/Tarek%20Joumaa%20(F554B62A)%20%E2%80%93%20Public.asc
