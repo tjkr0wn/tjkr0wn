@@ -11,8 +11,12 @@ I'm constantly learning and hope to soon find my own 0day!
 
 --Preffered method(s) of contact: Twitter, Discord, email.
 
-**Twitter: @tjkr0wn**
+**Twitter: ~~~**
 
-**Discord: tjkr0wn#1981**
+**Discord: ~~~**
 
 **Email: tarekjoumaa@icloud.com**
+
+Please use my PGP key when contacting me for sensitive information
+
+https:/github.com/tjkr0wn/PGP
