@@ -17,10 +17,10 @@ l = "Python"
 
 ```C
 asm volatile(""
-"ldr x1, =str"
+"ldr x1, =asm"
 "ldr x2, [x1]"
-"ldr x3, "
-"str x2, x"
+"ldr x3, =l"
+"str x2, [x3]"
 );
 ```
 
