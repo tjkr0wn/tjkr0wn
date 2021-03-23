@@ -16,7 +16,7 @@ Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble
 
 - **Discord: tjkr0wn #5029**
 
-- **Email: tarekjoumaa = x, x@icloud.com**
+- **Email: tarekjoumaa = x, icloud.com = s, x@s**
 
 - **~~Twitter~~**
 
