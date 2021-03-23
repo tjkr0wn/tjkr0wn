@@ -9,7 +9,7 @@ Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble
 
 ```Where I'm based: I live in America, EST more specifically.```
 
-```Preffered method(s) of contact: **Twitter**, **Discord**, and **email**.```
+```Preffered method(s) of contact: Twitter, Discord, and email.```
 
 **Discord: tjkr0wn #5029**
 
