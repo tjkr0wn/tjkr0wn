@@ -36,9 +36,9 @@ asm volatile(""
 
 ```Email```
 ```C
-//N@S
-#define N "tarekjoumaa"
-#define S "icloud.com"
+const char s = "@icloud.com";
+char n = "tarekjoumaa";
+strcat(n, s);
 ```
 
 **_Please use my PGP key when contacting me for sensitive information_**
