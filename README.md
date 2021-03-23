@@ -25,6 +25,8 @@ asm volatile(""
 ```
 
 ```Where I'm based:``` 
+North America
+EST Time zone
 
 ```Discord```
 ```C
