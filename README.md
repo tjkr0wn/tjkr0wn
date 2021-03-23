@@ -14,9 +14,11 @@ Where I'm based: I live in North America, EST time zone.
 
 ```Preffered method(s) of contact:```
 
-- **Discord: tjkr0wn #5029**
+- **Discord**: tjkr0wn #5029
 
-- **Email: ```n = "tarekjoumaa"; s = "icloud.com"; email = "{}@{}".format(n, s)```**
+- **Email**: ```Python
+n = "tarekjoumaa"; s = "icloud.com"; email = "{}@{}".format(n, s)
+```
 
 **_Please use my PGP key when contacting me for sensitive information_**
 
