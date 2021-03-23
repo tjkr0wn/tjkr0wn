@@ -10,12 +10,12 @@ Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble
 - **Python**
 - **ARM64 assembly**
 
-Where I'm based: I live in North America, EST time zone.
+```Where I'm based: I live in North America, EST time zone.```
 
 ```Preffered method(s) of contact:```
 
 - **Discord**: 
-  ```tjkr0wn #5029```
+  tjkr0wn #5029
 
 - **Email**: N@S
 ```C
