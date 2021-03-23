@@ -10,7 +10,9 @@ Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble
 - **Python**
 - **ARM64 assembly**
 
-```Where I'm based: I live in North America, EST time zone.```
+```Where I'm based:``` 
+  - Region = North America
+  - Time zone = EST
 
 ```Preffered method(s) of contact:```
 
