@@ -16,7 +16,7 @@ Where I'm based: I live in North America, EST time zone.
 
 - **Discord**: tjkr0wn #5029
 
-- **Email**: ```Python
+- **Email**: ```C
 n = "tarekjoumaa"; s = "icloud.com"; email = "{}@{}".format(n, s)
 ```
 
