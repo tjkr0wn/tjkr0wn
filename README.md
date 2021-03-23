@@ -10,16 +10,14 @@ Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble
 - **Python**
 - **ARM64 assembly**
 
-```Where I'm based: I live in North America, EST more specifically.```
+Where I'm based: I live in North America, EST time zone.
 
 ```Preffered method(s) of contact:```
 
 - **Discord: tjkr0wn #5029**
 
-- **Email: tarekjoumaa = x, icloud.com = s, x@s**
-
-- **~~Twitter~~**
+- **Email: ```n = "tarekjoumaa"; s = "icloud.com"; email = "{}@{}".format(n, s)```**
 
 **_Please use my PGP key when contacting me for sensitive information_**
 
-```PGP:``` [PGP](https://raw.githubusercontent.com/tjkr0wn/PGP/main/Tarek%20Joumaa%20(F554B62A)%20%E2%80%93%20Public.asc)
+--> [**PGP**](https://raw.githubusercontent.com/tjkr0wn/PGP/main/Tarek%20Joumaa%20(F554B62A)%20%E2%80%93%20Public.asc)
