@@ -6,19 +6,19 @@ I started research into iOS security in 2019 and I've enjoyed learning about all
 Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble upon some bugs.
 
 ```Programming languages: ```
-- C/C++
-- Python
-- ARM64 assembly
+- **C/C++**
+- **Python**
+- **ARM64 assembly**
 
 ```Where I'm based: I live in North America, EST more specifically.```
 
 ```Preffered method(s) of contact: Twitter, Discord, and email.```
 
-**Discord: tjkr0wn #5029**
+- **Discord: tjkr0wn #5029**
 
-**Email: tarekjoumaa = x, x@icloud.com**
+- **Email: tarekjoumaa = x, x@icloud.com**
 
-**~~Twitter~~**
+- **~~Twitter~~**
 
 **_Please use my PGP key when contacting me for sensitive information_**
 
