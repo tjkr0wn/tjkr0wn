@@ -12,7 +12,7 @@ Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble
 
 ```Where I'm based: I live in North America, EST more specifically.```
 
-```Preffered method(s) of contact: Twitter, Discord, and email.```
+```Preffered method(s) of contact:```
 
 - **Discord: tjkr0wn #5029**
 
