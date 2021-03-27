@@ -43,4 +43,4 @@ strcat(n, s);
 
 **_Please use my PGP key when contacting me for sensitive information_**
 
---> [**PGP**](https://raw.githubusercontent.com/tjkr0wn/PGP/main/Tarek%20Joumaa%20(F554B62A)%20%E2%80%93%20Public.asc)
+--> [**PGP: 7665A200F554B62A**](https://keybase.io/tjkr0wn/pgp_keys.asc)
