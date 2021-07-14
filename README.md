@@ -1,10 +1,10 @@
 ### Hi, I'm Tarek Joumaa!
 
 ```About me```
-I'm a iOS security and exploit enthusiast! I love breaking bootchains, kernels, and more.
+I'm a iOS security researcher. I love breaking bootchains and kernels.
 
 I started research into iOS security in 2019 and I've enjoyed learning about all aspects of the iPhone and how it operates.
-Currently, I'm reversing the iOS kernel to gain experience and hopefully stumble upon some bugs.
+My main focus for now is reversing the iOS kernel for fun and hopefully stumble upon some bugs.
 
 ```Programming languages```
 
