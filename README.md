@@ -1,6 +1,6 @@
-reverse engineer, code some code, pop the puzzle
+<span "font-size:8em;">reverse engineer, code some code, pop the puzzle</span>
 
-![logo](logo.jpeg)
+<div style="text-align:center"><img src="logo.jpeg" /></div>
 
 ![](21Savage-BankAccount.mp3)
 
