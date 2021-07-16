@@ -1,4 +1,4 @@
-# reverse engineer, code some code, pop the puzzle
+<div style="text-align:center"># reverse engineer, code some code, pop the puzzle</div>
 
 <div style="text-align:center"><img src="logo.jpeg" /></div>
 
