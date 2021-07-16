@@ -1,4 +1,4 @@
-<span "font-size:8em;">reverse engineer, code some code, pop the puzzle</span>
+#reverse engineer, code some code, pop the puzzle#
 
 <div style="text-align:center"><img src="logo.jpeg" /></div>
 
