@@ -1,6 +1,6 @@
 (Independent) iOS security researcher. Professional banterer.
 
-17 yrs old
+18 yrs old
 
 [**PGP: 4E322BB28FEC7D7CAC5827F7EE14C43F3CEA5A0E**](https://keybase.io/tjkr0wn/pgp_keys.asc)
 
