@@ -1,4 +1,4 @@
-(Independent) iOS security researcher. Professional banterer.
+(Independent) Hobby security researcher. Professional banterer.
 
 18 yrs old
 
